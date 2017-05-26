@@ -1,0 +1,250 @@
+header{
+    min-width:1240px;
+    height:48px;
+    background-color: #E8E8E8;
+    padding:10px 0;
+    margin:0 auto;
+}
+.header{
+    width:700px;
+    height:48px;
+    line-height: 58px;
+    margin:0 auto;
+}
+.s_one{
+    display: block;
+    width:168px;
+    height:48px;
+    float: left;
+    background:url(../image/sign_logo.png);
+}
+.s_two{
+    width:80px;
+    height:30px;
+    font-size: 20px;
+    margin-left: 28px;
+    padding:3px 0px;
+    padding-left: 25px;
+    line-height: 30px;
+    font-weight: 900;
+    font-family: '宋体';
+    border-left: 1px solid #929292;
+}
+.sign{
+    float: right;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    font-weight: 900;
+}
+section{
+    min-width:1240px;
+    height:782px;
+    overflow: hidden;
+    background-color: #F5F5F5;
+}
+.neirong{
+    width:700px;
+    height:548px;
+    margin:73px auto;
+    background-color: white;
+}
+.sec_one{
+    width:660px;
+    height:27px;
+    padding:20px;
+    line-height: 27px;
+    text-align: center;
+    font-size: 20px;
+    color: #222;
+    font-family: '微软雅黑';
+    font-weight: 300;
+    border-bottom: 1px solid #f5f5f5;
+    background-color: white;
+}
+.sec_two{
+    width:700px;
+    height:477px;
+    /*background-color: blue;*/
+}
+.sec_two_head{
+    width:380px;
+    height:377px;
+    padding:50px 0;
+    /*background-color: red;*/
+    margin:0 auto;
+}
+.sec_two_head_head{
+    width:380px;
+    height:322px;
+    margin-top:20px;
+    /*background-color: red;*/
+}
+.p_one{
+    width:380px;
+    height:44px;
+    line-height: 46px;
+    border:1px solid #E6E6E6;
+}
+.p_one span:first-child{
+    display: block;
+    width:18px;
+    height:18px;
+    margin:12px 8px;
+    float:left;
+    background:url(../image/sign_1.png);
+}
+.p_one span:last-child{
+    width:342px;
+    height:42px;
+    float: left;
+    /*background-color: red;*/
+}
+.p_one span:last-child input{
+    width:320px;
+    height:21px;
+    padding:0 7px;
+    margin:4px;
+    font-size: 14px;
+    line-height: 21px;
+}
+.sec_two_head_head .kongbai{
+    display: block;
+    width:380px;
+    height:20px;
+    background-color: white;
+    margin:7px 0;
+}
+.p_two{
+    width:380px;
+    height:44px;
+    line-height: 46px;
+    border:1px solid #E6E6E6;
+}
+.p_two span:first-child{
+    display: block;
+    width:18px;
+    height:18px;
+    margin:12px 8px;
+    float:left;
+    background:url(../image/sign_2.png);
+}
+.p_two span:last-child{
+    width:342px;
+    height:42px;
+    float: left;
+    /*background-color: red;*/
+}
+.p_two span:last-child input{
+    width:320px;
+    height:21px;
+    padding:0 7px;
+    margin:4px;
+    font-size: 14px;
+    line-height: 21px;
+}
+.p_san{
+    width:380px;
+    height:44px;
+    line-height: 46px;
+}
+.p_san span{
+    width:258px;
+    height:42px;
+    float: left;
+    border:1px solid #E6E6E6;
+    /*background-color: red;*/
+}
+.p_san span input{
+    width:230px;
+    height:21px;
+    padding:0 8px;
+    margin:4px;
+    font-size: 14px;
+    line-height: 21px;
+}
+.p_san img{
+    margin-left:20px;
+    margin-top:-3px;
+}
+.p_si{
+    width:380px;
+    height:40px;
+    margin-top:53px;
+}
+.p_si input{
+    width:380px;
+    height:40px;
+    background-color: #22AC69;
+    border-radius: 5px;
+    color:white;
+    font-size: 14px;
+    font-weight: 900;
+}
+.head_one{
+    width:380px;
+    height:19px;
+    padding-top: 15px;
+    line-height: 19px;
+    text-align: center;
+    font-size: 12px;
+    margin-top:3px;
+    color:#959393;
+}
+.head_one a{
+    color:#22AC69;
+}
+.head_one a:hover{
+    color: #22AC69;
+    text-decoration: underline;
+}
+.bangzhu{
+    width:700px;
+    height:20px;
+    margin:0 auto;
+    margin-top:-34px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    /*background-color: red;*/
+}
+.bangzhu span{
+    font-size: 20px;
+    font-weight: 100;
+    margin:0 15px;
+}
+.bangzhu a:hover{
+    color:#22AC69;
+}
+.foot{
+    width:700px;
+    height:62px;
+    margin:0 auto;
+    margin-top:20px;
+    /*background-color: red;*/
+}
+.foot p{
+    width:700px;
+    height:20px;
+    font-size: 15px;
+    color:#999999;
+    line-height: 20px;
+    margin-top:3px;
+    text-align: center;
+}
+.foot p a{
+    color:#999999;
+}
+.foot p:nth-of-type(3){
+    text-align: left;
+}
+.foot p a span{
+    display: block;
+    width:20px;
+    float: left;
+    height:20px;
+    margin-left: 230px;
+    background:url(../image/hui.png);
+}
+/*.foot p:nth-of-type(3) a{
+    margin-left:500px;
+}*/
